@@ -20,6 +20,11 @@ O projeto permite que os administradores gerenciem posts em um blog. Eles podem 
 - Integração com uma API de posts via Axios
 
 ## Estrutura do Projeto
+![Captura de tela de 2024-05-31 01-38-39](https://github.com/marcosgsilva/blogwithreact/assets/12539016/ef4ed542-4f81-4f4a-8bed-0d238838bd0e)
+
+
+## Resultado do Projeto
+
 
 ![Captura de tela de 2024-05-31 01-55-01](https://github.com/marcosgsilva/blogwithreact/assets/12539016/e5cb4feb-882d-4286-84ee-7c366d243aae)
 ![Captura de tela de 2024-05-31 01-55-20](https://github.com/marcosgsilva/blogwithreact/assets/12539016/0d89d628-56d9-439b-b35c-2b5751a5ef4c)
